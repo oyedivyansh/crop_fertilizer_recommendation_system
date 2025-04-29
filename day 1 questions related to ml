@@ -1,0 +1,10 @@
+What is Machine Learning (ML)?
+Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and make decisions or predictions without being explicitly programmed. It allows systems to improve their performance over time as they are exposed to more data.
+
+What is a Supervised Machine Learning Algorithm?
+Supervised learning is a type of machine learning where the model is trained using labeled data. This means that each training example is paired with an output label. The goal is for the algorithm to learn a mapping from inputs to outputs so it can predict labels for new, unseen data.
+
+What are Regression and Classification?
+Regression and classification are two main types of problems in supervised learning:
+- Regression is used when the output variable is a continuous value, such as predicting house prices or temperature.
+- Classification is used when the output is a category, such as determining whether an email is spam or not.
